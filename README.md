@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RinaldoWattiheluw
 - 👀 I’m interested in IT Infrastructure
-- 🌱 I’m currently learning Linux Administration, Docker, and AWS. 
+- 🌱 I’m currently learning Linux Administration, Docker, Git, HTML and CSS, Java Programming and AWS to expand my skills. 
 - 📫 How to reach me: rinaldowattiheluw@gmail.com
 
 <!---
